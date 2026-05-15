@@ -1,0 +1,15 @@
+streamlit>=1.32.0
+numpy==1.26.4
+Pillow
+pandas
+plotly
+pyyaml
+tqdm
+onnxruntime
+opencv-python-headless
+ultralytics==8.3.0
+matplotlib
+seaborn
+scikit-learn
+ipykernel
+jupyter
