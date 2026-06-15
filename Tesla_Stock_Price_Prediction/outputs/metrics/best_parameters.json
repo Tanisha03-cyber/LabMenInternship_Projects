@@ -1,0 +1,7 @@
+{
+    "batch_size": 16,
+    "epochs": 20,
+    "model__dropout": 0.2,
+    "model__learning_rate": 0.001,
+    "model__units": 100
+}
